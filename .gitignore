@@ -1,0 +1,6 @@
+.idea
+api-gateway
+currency-conversion-service
+currency-exchange-service
+naming-server
+docker-compose.yaml
