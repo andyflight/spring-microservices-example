@@ -20,7 +20,9 @@ Each branch contains a simple instruction to run the application and urls to tes
 ### DOCKER-COMPOSE-MICROSERVICES
 
 To run this project simply run the following command:
+```bash
 docker-compose up
+```
 Verify that you have docker and docker-compose installed and have required rights to run the command.
 
 
